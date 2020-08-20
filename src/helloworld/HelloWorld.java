@@ -1,7 +1,8 @@
 ﻿package helloworld;
 
 public class HelloWorld {
+
 public static void main(String[] args) {
-	System.out.print("helloworld随便改一改");
+	System.out.print("helloworld");
 }
 }
